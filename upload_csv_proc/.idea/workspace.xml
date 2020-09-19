@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f74809a-cb34-4844-a5d4-9c84f096f1c1" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/insert_Inscricao.php" beforeDir="false" afterPath="$PROJECT_DIR$/insert_Inscricao.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1gA6yLkmsTRCBxX5t4lmjv7qZ63" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../controleEventoWeb_Homologacao" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\arquivo_csv" />
+      <recent name="C:\xampp\htdocs\arquivo_csv\css" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\arquivo_csv" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f74809a-cb34-4844-a5d4-9c84f096f1c1" name="Default Changelist" comment="" />
+      <created>1589844410569</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589844410569</updated>
+      <workItem from="1589844411770" duration="1875000" />
+      <workItem from="1589902018400" duration="4442000" />
+      <workItem from="1589908973436" duration="19000" />
+      <workItem from="1589909023526" duration="18000" />
+      <workItem from="1589909049598" duration="9875000" />
+      <workItem from="1589930599097" duration="2192000" />
+      <workItem from="1589973965495" duration="5941000" />
+      <workItem from="1590068317276" duration="2546000" />
+      <workItem from="1590088796076" duration="42000" />
+      <workItem from="1590148698872" duration="16949000" />
+      <workItem from="1590199262391" duration="9000" />
+      <workItem from="1590248565169" duration="563000" />
+      <workItem from="1590339096855" duration="8949000" />
+      <workItem from="1590406493945" duration="16639000" />
+      <workItem from="1590436881147" duration="1792000" />
+      <workItem from="1590453506364" duration="20000" />
+      <workItem from="1590463481253" duration="1645000" />
+      <workItem from="1590492028472" duration="6895000" />
+      <workItem from="1590517831268" duration="2510000" />
+      <workItem from="1590578257229" duration="6034000" />
+      <workItem from="1590602559520" duration="599000" />
+      <workItem from="1590605456370" duration="2546000" />
+      <workItem from="1590665828555" duration="9743000" />
+      <workItem from="1590750396771" duration="1199000" />
+      <workItem from="1590759498862" duration="4950000" />
+      <workItem from="1590846973896" duration="1030000" />
+      <workItem from="1591103289188" duration="2024000" />
+      <workItem from="1591112103203" duration="10000" />
+      <workItem from="1591120375896" duration="1348000" />
+      <workItem from="1591185411178" duration="4145000" />
+      <workItem from="1591276059447" duration="7846000" />
+      <workItem from="1591356919250" duration="3035000" />
+      <workItem from="1591629399327" duration="1349000" />
+      <workItem from="1591643795952" duration="609000" />
+      <workItem from="1591704799721" duration="10849000" />
+      <workItem from="1591794378439" duration="1210000" />
+      <workItem from="1591807911131" duration="12000" />
+      <workItem from="1592308817454" duration="869000" />
+      <workItem from="1592417697442" duration="220000" />
+      <workItem from="1593004733368" duration="599000" />
+      <workItem from="1593173696822" duration="654000" />
+      <workItem from="1593431202485" duration="21000" />
+      <workItem from="1597545306318" duration="756000" />
+      <workItem from="1597547532050" duration="10000" />
+      <workItem from="1598453553802" duration="1602000" />
+      <workItem from="1598531505751" duration="3846000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="274" key="FileChooserDialogImpl" timestamp="1598533810093">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="274" key="FileChooserDialogImpl/0.0.2560.1040/-1680.24.1680.1010@0.0.2560.1040" timestamp="1598533810093" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/insertParticipante.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/index.php</url>
+          <line>201</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

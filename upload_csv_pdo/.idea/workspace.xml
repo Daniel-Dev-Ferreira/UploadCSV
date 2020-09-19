@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40846fef-8e05-4e32-8efd-4d56d8a0df9c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="ProjectId" id="1h3ISW2cwTiHNe81FbIr5GaUBJu" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cursosextensao_online" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\prototipo-class\App\Model" />
+      <recent name="C:\xampp\htdocs\prototipo-class\App" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\prototipo-class" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40846fef-8e05-4e32-8efd-4d56d8a0df9c" name="Default Changelist" comment="" />
+      <created>1599233348879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599233348879</updated>
+      <workItem from="1599233349945" duration="3302000" />
+      <workItem from="1599655067026" duration="9740000" />
+      <workItem from="1599741278280" duration="14928000" />
+      <workItem from="1599828976537" duration="11267000" />
+      <workItem from="1599913907411" duration="7036000" />
+      <workItem from="1600174024335" duration="5479000" />
+      <workItem from="1600347634321" duration="15870000" />
+      <workItem from="1600438849723" duration="628000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1060" y="274" key="FileChooserDialogImpl" timestamp="1600438880947">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1060" y="274" key="FileChooserDialogImpl/0.0.2560.1040/-1680.24.1680.1010@0.0.2560.1040" timestamp="1600438880947" />
+    <state x="1098" y="242" key="NewPhpClassDialog" timestamp="1599756315720">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1098" y="242" key="NewPhpClassDialog/0.0.2560.1040/-1680.24.1680.1010@0.0.2560.1040" timestamp="1599756315720" />
+    <state x="1754" y="443" key="NewPhpFileDialog" timestamp="1600357892458">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state x="1754" y="443" key="NewPhpFileDialog/0.0.2560.1040/-1680.24.1680.1010@0.0.2560.1040" timestamp="1600357892458" />
+    <state width="498" height="446" key="SwitcherDM" timestamp="1599661021149">
+      <screen x="0" y="0" width="2560" height="1040" />
+    </state>
+    <state width="498" height="446" key="SwitcherDM/0.0.2560.1040/-1680.24.1680.1010@0.0.2560.1040" timestamp="1599661021149" />
+  </component>
+</project>
